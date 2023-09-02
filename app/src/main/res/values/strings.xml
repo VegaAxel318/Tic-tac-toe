@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic-tac-toe</string>
+    <string name="topTitle">Tic-Tac-Toe</string>
+    <string name="p1">Jugador 1</string>
+    <string name="cpu">Computadora</string>
+    <string name="turnIndicator">Turno actual:</string>
+    <string name="startText">Iniciar</string>
+</resources>
